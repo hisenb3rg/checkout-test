@@ -1,0 +1,7 @@
+tmp
+.DS_Store
+**.swp
+.rbenv-version
+.ruby-*
+*.sublime-project
+*.sublime-workspace
