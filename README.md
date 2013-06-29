@@ -1,5 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/jurglic/checkout-test.png)](https://codeclimate.com/github/jurglic/checkout-test)
 [![Build Status](https://travis-ci.org/jurglic/checkout-test.png)](https://travis-ci.org/jurglic/checkout-test)
-
 
 Checkout system test task for an e-commerce client
 ==================
