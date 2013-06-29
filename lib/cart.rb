@@ -1,3 +1,5 @@
+require 'forwardable'
+
 # Public: Model class for representing cart content.
 # Provides functionality to list all products along with quantities
 # no matter the input order. It is totaly decoupled and unaware of

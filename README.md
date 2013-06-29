@@ -9,6 +9,12 @@ Running acceptance specs is simple:
 $ rspec spec/checkout_acceptance_spec.rb
 ~~~
 
+If you wish to expirement in irb, make sure you add lib to load path:
+~~~ sh
+$ irb -Ilib
+> require 'checkout'
+~~~
+
 
 Requirements
 ------------

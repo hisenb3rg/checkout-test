@@ -1,4 +1,4 @@
-require_relative 'promotion_rule'
+require 'promotion_rule'
 
 # Public: Class represents promotions based on cart total amount.
 # It defines conditions at which promotion is applied and consequent discount. 

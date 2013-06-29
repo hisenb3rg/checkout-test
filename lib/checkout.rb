@@ -1,7 +1,8 @@
-require_relative 'total_amount_promotion'
-require_relative 'product_quantity_promotion'
-require_relative 'cart'
-require_relative 'cart_calculator'
+require 'forwardable'
+require 'total_amount_promotion'
+require 'product_quantity_promotion'
+require 'cart'
+require 'cart_calculator'
 
 # Public: Service class to offer checkout functionalities.
 # It is here to provide the requested checkout API.
